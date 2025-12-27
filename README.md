@@ -1,10 +1,6 @@
-# Financial Data Analysis: Vietnamese Corporate Dataset (2008–2023)
+# Financial Data Analysis: Vietnamese Corporate Dataset 
 
 A comprehensive data cleaning, transformation, and financial insight extraction project on a 15-year panel dataset of Vietnamese firms across multiple industries.
-
-> 🎯 **Purpose**: Demonstrate end-to-end data analysis skills for internship applications in Data Analyst, Quantitative Analyst, Financial Analyst, and Data Engineering roles.
-
----
 
 ## 📊 Overview
 
